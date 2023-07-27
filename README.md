@@ -31,5 +31,11 @@ Welcome to this AWESOME repository of Medium Tutorials! This repository hosts a 
 - [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0002%20-%20quantization)
 - [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0003%20-%20pruning)
 
-## Author
+## About the Author
+
+Hi! My name is François. I am an incoming Research Scientist at Meta AI in the Facebook Artificial Intelligence Research lab (FAIR). I am currently a visiting Researcher at Cambridge University, trying to improve the state of the art in 3D Image Segmentation. Prior to that I graduated from UC Berkeley and CentraleSupelec, majoring in Computer Sciences and Applied Mathematics.
+
+Being extremely curious by nature, I naturally explore a lot of different ideas, articles, classes, books, and I thought it would be great to distill all this knowledge into useful Medium articles and Github repositories for you.
+
+Feel free to reach out! You can also recommend me a tutorial on a theme you would like to see.
 
