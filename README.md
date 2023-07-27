@@ -9,6 +9,8 @@ Welcome to this AWESOME repository of Medium Tutorials! This repository hosts a 
 
 ### Image Segmentation
 - [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0001%20-%20unet)
+- [V-Net Explained, Paper review]()
+- [Cook your first VNet in Pytorch for 3D images]()
 - [Turobocharge your Unets with Backbone]()
 
 ### Object Detection
