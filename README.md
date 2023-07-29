@@ -20,6 +20,8 @@ Welcome to this AWESOME repository of Medium Tutorials! This repository hosts a 
 
 ## Generative Models
 
+- [Finally a clear explanation of the Variational Inference and the Reparametrization trick]()
+
 ## Multimodal Learning
 
 ## Self Supervised Learning
