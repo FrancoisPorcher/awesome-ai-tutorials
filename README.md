@@ -23,7 +23,7 @@ Welcome to this AWESOME repository of Medium Tutorials! This repository hosts a 
 - [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0003%20-%20pruning)
 
 ## MLOps
-- [How to use Weights and Biases?](), [[Github]]()
+- [How to use Weights and Biases?](), [[Github]](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
 
 ## About the Author
 
