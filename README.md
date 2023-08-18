@@ -1,6 +1,9 @@
 # 😎 Awesome AI Tutorials
 
-Welcome to this AWESOME repository of Medium Tutorials! This repository hosts a collection of tutorials focused on various aspects of artificial intelligence (AI). Whether you're a complete beginner or an experienced AI enthusiast, these tutorials will provide you with valuable insights and practical knowledge to enhance your understanding and skills in the AI domain.
+Welcome to this AWESOME repository of AI Tutorials!
+
+This is a collection of tutorials I have made on various aspects of Artificial Intelligence (AI). I dig deep into subjects and you will information that you find nowhere else.
+Whether you're a complete beginner or an experienced AI enthusiast, these tutorials will provide you with valuable insights and practical knowledge and enable you to upskill in Computer Vision, NLP, Uncertainty Prediction, MLOps, Cloud Computing and more.
 
 # Content
 
