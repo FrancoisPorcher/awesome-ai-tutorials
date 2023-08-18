@@ -5,14 +5,16 @@ Welcome to this AWESOME repository of AI Tutorials!
 This is a collection of tutorials I have made on various aspects of Artificial Intelligence (AI). I dig deep into subjects and you will information that you find nowhere else.
 Whether you're a complete beginner or an experienced AI enthusiast, these tutorials will provide you with valuable insights and practical knowledge and enable you to upskill in Computer Vision, NLP, Uncertainty Prediction, MLOps, Cloud Computing and more.
 
+You can find a list of my articles on [Medium](https://medium.com/@foporcher).
+
 # Content
 
 ## Computer Vision
 
 ### Image Segmentation
-- [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0001%20-%20unet)
+- [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0001%20-%20unet)
 - [V-Net, U-Net’s big brother in Image Segmentation](https://medium.com/@foporcher/v-net-u-nets-big-brother-in-image-segmentation-906e393968f7)
-- [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@foporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/004%20-%20nnU-Net)
+- [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@foporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/004%20-%20nnU-Net)
 
 
 
@@ -22,11 +24,11 @@ Whether you're a complete beginner or an experienced AI enthusiast, these tutori
 - [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@foporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
 
 ## Efficient Deep Learning
-- [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0002%20-%20quantization)
-- [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/0003%20-%20pruning)
+- [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0002%20-%20quantization)
+- [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0003%20-%20pruning)
 
 ## MLOps
-- [How to use Weights and Biases?](), [[Github]](https://github.com/FrancoisPorcher/awesome-medium-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
+- [How to use Weights and Biases?](), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
 
 ## About the Author
 
