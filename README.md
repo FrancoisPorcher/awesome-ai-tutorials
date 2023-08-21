@@ -27,6 +27,10 @@ You can find a list of my articles on [Medium](https://medium.com/@foporcher).
 - [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0002%20-%20quantization)
 - [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0003%20-%20pruning)
 
+## Cloud Computing
+
+- [How to Send SLURM Jobs to a Cluster](https://towardsdatascience.com/how-to-send-a-slurm-job-to-a-cluster-dd1cf021c7ac)
+
 ## MLOps
 - [How to use Weights and Biases?](), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
 
