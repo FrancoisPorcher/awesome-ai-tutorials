@@ -32,7 +32,7 @@ You can find a list of my articles on [Medium](https://medium.com/@foporcher).
 - [How to Send SLURM Jobs to a Cluster](https://towardsdatascience.com/how-to-send-a-slurm-job-to-a-cluster-dd1cf021c7ac)
 
 ## MLOps
-- [How to use Weights and Biases?](), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
+- [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
 
 ## About the Author
 
