@@ -15,7 +15,7 @@ You can find a list of my articles on [Medium](https://medium.com/@foporcher).
 - [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0001%20-%20unet)
 - [V-Net, U-Net’s big brother in Image Segmentation](https://medium.com/@foporcher/v-net-u-nets-big-brother-in-image-segmentation-906e393968f7)
 - [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@foporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/004%20-%20nnU-Net)
-
+- [Entropy-Based Uncertainty in Image Segmentation]() [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
 
 
 
@@ -33,6 +33,9 @@ You can find a list of my articles on [Medium](https://medium.com/@foporcher).
 
 ## MLOps
 - [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
+
+## Uncertainty Estimation
+- [Entropy-Based Uncertainty in Image Segmentation]() [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
 
 ## About the Author
 
