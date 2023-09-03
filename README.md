@@ -5,7 +5,7 @@ Welcome to this AWESOME repository of AI Tutorials!
 This is a collection of tutorials I have made on various aspects of Artificial Intelligence (AI). I dig deep into subjects and you will information that you find nowhere else.
 Whether you're a complete beginner or an experienced AI enthusiast, these tutorials will provide you with valuable insights and practical knowledge and enable you to upskill in Computer Vision, NLP, Uncertainty Prediction, MLOps, Cloud Computing and more.
 
-You can find a list of my articles on [Medium](https://medium.com/@foporcher).
+You can find a list of my articles on [Medium](https://medium.com/@francoisporcher).
 
 # Content
 
@@ -13,15 +13,15 @@ You can find a list of my articles on [Medium](https://medium.com/@foporcher).
 
 ### Image Segmentation
 - [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0001%20-%20unet)
-- [V-Net, U-Net’s big brother in Image Segmentation](https://medium.com/@foporcher/v-net-u-nets-big-brother-in-image-segmentation-906e393968f7)
-- [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@foporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/004%20-%20nnU-Net)
+- [V-Net, U-Net’s big brother in Image Segmentation](https://medium.com/@francoisporcher/v-net-u-nets-big-brother-in-image-segmentation-906e393968f7)
+- [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@francoisporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/004%20-%20nnU-Net)
 - [Entropy-Based Uncertainty in Image Segmentation]() [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
 
 
 
 
 ## Bayesian Deep Learning
-- [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@foporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
+- [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@francoisporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
 
 ## Efficient Deep Learning
 - [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0002%20-%20quantization)
