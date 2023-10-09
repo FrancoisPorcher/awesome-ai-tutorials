@@ -18,8 +18,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - [Entropy-Based Uncertainty in Image Segmentation](https://medium.com/towards-data-science/entropy-based-uncertainty-prediction-812cca769d7a) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
   
 ### Object Detection
-- [DETR: Detection Transformer]()
-
+- [DETR: Detection Transformer](https://medium.com/p/a8b3327b737a)
 
 
 
