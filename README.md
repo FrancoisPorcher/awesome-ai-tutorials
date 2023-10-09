@@ -41,9 +41,12 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 
 ## About the Author
 
-Hi! My name is François. I am an incoming Research Scientist at Meta AI in the Facebook Artificial Intelligence Research lab (FAIR). I am currently a visiting Researcher at Cambridge University, trying to improve the state of the art in 3D Image Segmentation. Prior to that I graduated from UC Berkeley and CentraleSupelec, majoring in Computer Sciences and Applied Mathematics.
+Hey! My name is  [François](https://www.linkedin.com/in/fporcher/), I am a A.I Research Scientist intern at Meta. Previously I was doing research on Deep Learning and NeuroImaging at Cambridge University.
 
-Being extremely curious by nature, I naturally explore a lot of different ideas, articles, classes, books, and I thought it would be great to distill all this knowledge into useful Medium articles and Github repositories for you.
+Being very curious and constantly learning, I have a very broad range of interests. I also like to break down the most complext topics into the tiniest bits and explain them in a simple way.
 
-Feel free to reach out! You can also recommend me a tutorial on a theme you would like to see.
+This is why I decided to distill all this knowledge into a series of articles/tutorials that I hope you will find useful.
+
+Enjoy! 🤗
+
 
