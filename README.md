@@ -19,6 +19,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
   
 ### Object Detection
 - [DETR: Detection Transformer](https://medium.com/p/a8b3327b737a)
+- [Incoming: CO-DETR]()
 
 
 
