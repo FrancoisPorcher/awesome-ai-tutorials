@@ -19,12 +19,12 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
   
 ### Object Detection
 - [DETR: Detection Transformer](https://medium.com/p/a8b3327b737a)
-- [Incoming: CO-DETR]()
+- [CO-DETR [Incoming]]()
 
 ## Natural Language Processing (NLP)
-- [Understanding Transformers from Scratch (incoming)]()
-- [BERT from Scratch (incoming)]()
-- [GPT from scratch (incoming)]()
+- [Understanding Transformers from Scratch [Incoming]]()
+- [BERT from Scratch [Incoming]]()
+- [GPT from scratch [Incoming]]()
 
 ## Bayesian Deep Learning
 - [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@francoisporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
@@ -36,6 +36,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 ## Cloud Computing
 
 - [How to Send SLURM Jobs to a Cluster](https://towardsdatascience.com/how-to-send-a-slurm-job-to-a-cluster-dd1cf021c7ac)
+- [How to parallelize large models? [Incoming]]()
 
 ## MLOps
 - [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
