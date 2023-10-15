@@ -21,7 +21,10 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - [DETR: Detection Transformer](https://medium.com/p/a8b3327b737a)
 - [Incoming: CO-DETR]()
 
-
+## Natural Language Processing (NLP)
+- [Understanding Transformers from Scratch (incoming)]()
+- [BERT from Scratch (incoming)]()
+- [GPT from scratch (incoming)]()
 
 ## Bayesian Deep Learning
 - [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@francoisporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
