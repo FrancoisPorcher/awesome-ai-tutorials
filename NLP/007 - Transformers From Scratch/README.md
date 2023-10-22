@@ -1,6 +1,8 @@
 # Transformers from Scratch
 
-This Github repository contains the full implementation of a Transformer from scratch.
+This Github repository is my implementation of the Transformer architecture, with explanations on my Medium post.
+
+![Alt text](image.png)
 
 # Instructions
 
