@@ -22,7 +22,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - [CO-DETR [Incoming]]()
 
 ## Natural Language Processing (NLP)
-- [Understanding Transformers from Scratch [Incoming]]()
+- [The A-Z of Transformers: Everything You Need to Know](https://medium.com/p/c9f214c619ac) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/NLP/007%20-%20Transformers%20From%20Scratch)
 - [BERT from Scratch [Incoming]]()
 - [GPT from scratch [Incoming]]()
 
@@ -36,7 +36,8 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 ## Cloud Computing
 
 - [How to Send SLURM Jobs to a Cluster](https://towardsdatascience.com/how-to-send-a-slurm-job-to-a-cluster-dd1cf021c7ac)
-- [How to parallelize large models? [Incoming]]()
+- [What is Distributed Data Parallel (DDP) [Incoming]]()
+- [What Fully Sharded Data Parallel (FSDP) [Incoming]]()
 
 ## MLOps
 - [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
