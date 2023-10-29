@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Welcome to this lesson on Distributed Data Parallel (DDP). In this lesson, we will learn how to use DDP to train a model on multiple nodes with multiple GPUs.
+
 ## Environment
 
 You just need an environment with scikit-learn and PyTorch installed. 

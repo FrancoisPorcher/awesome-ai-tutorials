@@ -36,7 +36,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 ## Cloud Computing
 
 - [How to Send SLURM Jobs to a Cluster](https://towardsdatascience.com/how-to-send-a-slurm-job-to-a-cluster-dd1cf021c7ac)
-- [What is Distributed Data Parallel (DDP) [Incoming]]()
+- [What is Distributed Data Parallel (DDP)]() [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/Cloud%20Computing/008%20-%20Distributed%20Data%20Parallel%20(DDP))
 - [What Fully Sharded Data Parallel (FSDP) [Incoming]]()
 
 ## MLOps
