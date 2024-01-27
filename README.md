@@ -25,6 +25,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - [The A-Z of Transformers: Everything You Need to Know](https://medium.com/p/c9f214c619ac) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/NLP/007%20-%20Transformers%20From%20Scratch)
 - [BERT from Scratch [Incoming]]()
 - [GPT from scratch [Incoming]]()
+- [Mixture of Experts [Incoming]]()
 
 ## Bayesian Deep Learning
 - [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@francoisporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
@@ -44,6 +45,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 
 ## Uncertainty Estimation
 - [Entropy-Based Uncertainty in Image Segmentation]() [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
+- [Conformal Prediction (Incoming)]()
 
 ## About the Author
 
