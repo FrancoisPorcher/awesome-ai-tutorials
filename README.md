@@ -12,7 +12,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 ## Computer Vision
 
 ### Image Segmentation
-- [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0001%20-%20unet)
+- [Cooking your first Unet](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/Computer%20Vision/UNet)
 - [V-Net, U-Net’s big brother in Image Segmentation](https://medium.com/@francoisporcher/v-net-u-nets-big-brother-in-image-segmentation-906e393968f7)
 - [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@francoisporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/004%20-%20nnU-Net)
 - [Entropy-Based Uncertainty in Image Segmentation](https://medium.com/towards-data-science/entropy-based-uncertainty-prediction-812cca769d7a) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
@@ -27,8 +27,8 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@francoisporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
 
 ## Efficient Deep Learning
-- [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0002%20-%20quantization)
-- [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/0003%20-%20pruning)
+- [A beginner's guide to Quantization](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/Efficient%20Deep%20Learning/Quantization)
+- [A beginner's guide to Pruning](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/Efficient%20Deep%20Learning/Pruning)
 
 ## Cloud Computing
 
@@ -37,7 +37,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 
 
 ## MLOps
-- [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/005%20-%20How%20to%20use%20Weights%20and%20Biases)
+- [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/MLOps/How%20to%20use%20Weights%20and%20Biases)
 
 ## Uncertainty Estimation
 - [Entropy-Based Uncertainty in Image Segmentation](https://medium.com/towards-data-science/entropy-based-uncertainty-prediction-812cca769d7a) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/Uncertainty%20Estimation/Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
