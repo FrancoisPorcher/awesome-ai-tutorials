@@ -1,0 +1,5 @@
+Metric,Value
+accuracy,0.87128
+precision,0.8523382933495293
+recall,0.89816
+f1,0.8746494234964163
