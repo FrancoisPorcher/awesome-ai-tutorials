@@ -22,7 +22,9 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 
 ### Vision Transformers
 
-- ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) A complete guide to Vision Transformers
+  
+- ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [The Ultimate Guide to Vision Transformers](https://medium.com/towards-data-science/the-ultimate-guide-to-vision-transformers-0a6df32cb248)
+- ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) How to train a Vision Transformer (ViT) from scratch?
 - ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) ViT - MAE: Masked Autoencoder for Vision Transformers
 
 
