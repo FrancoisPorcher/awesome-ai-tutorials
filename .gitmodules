@@ -1,0 +1,3 @@
+[submodule "Computer Vision/vit-pytorch"]
+	path = Computer Vision/vit-pytorch
+	url = git@github.com:FrancoisPorcher/vit-pytorch.git
