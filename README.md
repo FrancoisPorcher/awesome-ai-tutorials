@@ -20,12 +20,13 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [The Ultimate guide to nnU-Net for State Of the Art Image Segmentation](https://medium.com/@francoisporcher/the-ultimate-guide-to-nnu-net-for-state-of-the-art-image-segmentation-6dda7f44b935), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/004%20-%20nnU-Net)
 - ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [Entropy-Based Uncertainty in Image Segmentation](https://medium.com/towards-data-science/entropy-based-uncertainty-prediction-812cca769d7a) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/006%20-%20Entropy%20based%20uncertainty%20for%20Image%20Segmentation)
 
-### Vision Transformers
+### Vision Transformers (ViT)
 
   
 - ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [The Ultimate Guide to Vision Transformers](https://medium.com/towards-data-science/the-ultimate-guide-to-vision-transformers-0a6df32cb248)
-- ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [How to Train a Vision Transformer (ViT) from scratch?](https://medium.com/towards-data-science/how-to-train-a-vision-transformer-vit-from-scratch-f26641f26af2)
-- ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) ViT - MAE: Masked Autoencoder for Vision Transformers
+- ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [How to Train a Vision Transformer (ViT) from scratch?](https://medium.com/towards-data-science/)
+- ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [The Ultimate Guide to Masked Autoencoders (MAE)](https://medium.com/ai-advances/the-ultimate-guide-to-masked-autoencoders-mae-87aa6883ff47)
+- ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) How to Implement State-of-the-Art Masked AutoEncoders (MAE)?
 
 
 
