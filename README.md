@@ -1,16 +1,17 @@
 # 😎 Awesome AI Tutorials
 
-Welcome to this **AWESOME** repository of AI Tutorials!
+Welcome to this **AWESOME** repository of AI Tutorials! I am a Research Scientist at Meta and I have created this repository to share my learnings with the community.
 
 ![Awesome](https://img.shields.io/badge/Awesome-YES-brightgreen) ![AI](https://img.shields.io/badge/AI-Tutorials-blue) 
 
-This is a collection of tutorials I have made on various aspects of Artificial Intelligence (AI). I dig deep into subjects and you will information that you find nowhere else.
-Whether you're a complete beginner or an experienced AI enthusiast, these tutorials will provide you with valuable insights and practical knowledge and enable you to upskill in Computer Vision, NLP, Uncertainty Prediction, MLOps, Cloud Computing and more.
+If you are looking for an all-in-one place to learn about the latest trends in AI with high quality explanations/code, you are in the right place! 
+
+This repository contains a series of tutorials on various topics in AI, from Computer Vision to Natural Language Processing, Reinforcement Learning, Uncertainty Prediction, MLOps, Cloud Computing and more.
+
 
 You can find a list of my articles on [Medium](https://medium.com/@francoisporcher).
 
 # 📚 Content
-
 
 ## 📷 Computer Vision
 
@@ -36,6 +37,11 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 
 ## 📖 Natural Language Processing (NLP)
 - ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [The A-Z of Transformers: Everything You Need to Know](https://medium.com/p/c9f214c619ac) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/NLP/007%20-%20Transformers%20From%20Scratch)
+
+## 📚 Reinforcement Learning
+
+- ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) k-arms bandit: A Comprehensive Guide on both stationary and non-stationary problems
+- ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) Thompson Sampling
 
 ## 📊 Bayesian Deep Learning
 - ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [A Gentle Introduction to Bayesian Deep Learning](https://medium.com/@francoisporcher/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
@@ -64,7 +70,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 
 ## 👨‍💻 About the Author
 
-Hey! My name is  [François](https://www.linkedin.com/in/fporcher/), I am a A.I Research Scientist at Meta. Previously I was doing research on Deep Learning and NeuroImaging at Cambridge University, and I graduated from UC Berkeley and CentraleSupelec.
+Hey! My name is [François](https://www.linkedin.com/in/fporcher/), I am a A.I Research Scientist at Meta. Previously I was also doing research in Computer vision and LLMs at Stanford University and Cambridge University.
 
 Being very curious and constantly learning, I have a very broad range of interests. I also like to break down the most complex topics into the tiniest bits and explain them in a simple way.
 
