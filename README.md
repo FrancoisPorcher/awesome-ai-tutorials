@@ -55,7 +55,7 @@ You can find a list of my articles on [Medium](https://medium.com/@francoisporch
 - ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [How to Send SLURM Jobs to a Cluster](https://towardsdatascience.com/how-to-send-a-slurm-job-to-a-cluster-dd1cf021c7ac)
 - ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [What is Distributed Data Parallel (DDP)](https://medium.com/towards-data-science/a-comprehensive-guide-of-distributed-data-parallel-ddp-2bb1d8b5edfb) [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/Cloud%20Computing/Distributed%20Data%20Parallel%20(DDP))
 
-
+s
 ## 🔧 MLOps
 - ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [How to use Weights and Biases?](https://medium.com/ai-mind-labs/how-to-use-weights-and-biases-c4467c6dac27), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/MLOps/How%20to%20use%20Weights%20and%20Biases)
 - ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [How to test a Machine Learning Project?](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/MLOps/how_to_test), [[Github]](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/MLOps/how_to_test)
