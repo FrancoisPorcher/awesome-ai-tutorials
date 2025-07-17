@@ -146,7 +146,8 @@ def main(
     # ... (rest of the main function)
     dataset, model, optimizer = load_train_objs()
     train_data = prepare_dataloader(dataset, batch_size)
-    trainer = Trainer(model, train_data, optimizer, rank, save_every)
+    # use the local rank as the gpu id when creating the trainer
+    trainer = Trainer(model, train_data, optimizer, local_rank, save_every)
     trainer.train(total_epochs)
     destroy_process_group()
 
